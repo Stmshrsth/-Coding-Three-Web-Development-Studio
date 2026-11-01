@@ -1,0 +1,36 @@
+    body {
+        background-color: #36375d;
+        color: #cdfce7;
+    }
+    .title {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 40px;
+        text-align: center;
+    }
+    .img {
+        display: block;  /* This made it so i could move the image around */
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .p {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 18px;
+        text-align: center;
+    }
+    .choice {
+        display: block;
+        border: 2px solid #36375d;
+        padding: 8px;
+        margin: 10px;
+        background-color: #cdfce7;
+        text-align: center;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 18px;
+    }
+    .end {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 18px;
+        text-align: center;
+        color:red;
+        background-color: #ff3232;
+    }
